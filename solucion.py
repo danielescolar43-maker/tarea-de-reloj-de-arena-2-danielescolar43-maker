@@ -25,8 +25,6 @@ def reloj_arena(m: int, s: str) -> str:
     
     return 
 
-    # En este archivo debes implementar la función
-
 
    
     
